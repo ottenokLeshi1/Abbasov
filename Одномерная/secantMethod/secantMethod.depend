@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480011316 source:/home/ottenok/Документы/ВУЗ/Методы Оптимизации/Одномерная/secantMethod/main.cpp
+	<iostream>
+	<cmath>
+

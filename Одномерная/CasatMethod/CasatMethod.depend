@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479056938 source:/home/ottenok/Документы/ВУЗ/Методы Оптимизации/FibbMethod/CasatMethod/main.cpp
+	<iostream>
+	<cmath>
+
+1479926057 source:/home/ottenok/Документы/ВУЗ/Методы Оптимизации/CasatMethod/main.cpp
+	<iostream>
+	<cmath>
+

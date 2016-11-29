@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480097765 source:/home/ottenok/Документы/ВУЗ/Методы Оптимизации/gradWithPreviousStep/main.cpp
+	<iostream>
+	<cmath>
+
+1480097863 source:/home/ottenok/Документы/ВУЗ/Методы Оптимизации/Многомерная/gradWithPreviousStep/main.cpp
+	<iostream>
+	<cmath>
+
